@@ -1,4 +1,4 @@
-# ** OOP Project : Travel booking Project using JDBC ** 
+# OOP Project : Travel booking Project using JDBC  
 
   
 
