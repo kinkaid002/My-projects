@@ -2,7 +2,7 @@
 
   
 
-This is a Project to Help in booking Airplane as well as hotel tickets. Various Flight details such as flight number, Flight timings, Date of Flight etc., as well as Hotel Details Like City name, Number of rooms, Hotel name are stored in the Database. Using these databases with the help of Java programs, a customer can ensure his/her flight as well as hotels Tickets booking with ease. 
+**This is a Project to Help in booking Airplane as well as hotel tickets. Various Flight details such as flight number, Flight timings, Date of Flight etc., as well as Hotel Details Like City name, Number of rooms, Hotel name are stored in the Database. Using these databases with the help of Java programs, a customer can ensure his/her flight as well as hotels Tickets booking with ease. 
 
   
 
