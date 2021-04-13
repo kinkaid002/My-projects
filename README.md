@@ -18,7 +18,7 @@ Program Flow :
 
 1c. If the user ID matches with the user ID in the Database, but the password does not match, then an error is thrown. 
 
-	If registerd successfully, then the user is asked to log in again. 
+If registerd successfully, then the user is asked to log in again. 
 
   
 
